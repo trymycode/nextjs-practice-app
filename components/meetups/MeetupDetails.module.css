@@ -1,0 +1,11 @@
+.title{
+    font-size:17px;
+    color: brown;
+    margin-bottom: 10px
+    ;
+}
+.details{
+    color: grey;
+    padding: 10px;
+    border: 1px solid #333;
+}
